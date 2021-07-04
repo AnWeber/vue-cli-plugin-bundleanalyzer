@@ -1,0 +1,20 @@
+{
+  "name": "vue-cli-plugin-bundleanalyzer",
+  "description": "add analyze command for webpack bundle analyzer output",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AnWeber/vue-cli-plugin-bundleanalyzer",
+  "homepage": "https://github.com/AnWeber/vue-cli-plugin-bundleanalyzer",
+  "bugs": "https://github.com/AnWeber/vue-cli-plugin-bundleanalyzer/issues",
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "plugin",
+    "webpack-bundle-analyzer"
+  ],
+  "author": "weber.andreas@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "webpack-bundle-analyzer": "^4.4.2"
+  }
+}
